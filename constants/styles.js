@@ -1,6 +1,6 @@
 export const GlobalStyles = {
     colors: {
-        primary50: 'green',
+        primary50: 'teal',
         primary100: '#c6affc',
         primary200: 'white',
         primary400: '#f6f6f6',
@@ -10,8 +10,8 @@ export const GlobalStyles = {
         accent500: 'black',
         error50: '#fcc4e4',
         error500: 'red',
-        gray500: '#39324a',
-        gray700: '#200364',
+        gray500: 'teal',
+        gray700: 'teal',
         gray900: '#787878'
     }
 }

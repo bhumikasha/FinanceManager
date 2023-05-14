@@ -33,14 +33,15 @@ const styles = StyleSheet.create({
         alignItems: "center",
     },
     period: {
-        fontSize: 18,
+        fontSize: 28,
         textAlign: "left",
         fontWeight: "bold",
         color: GlobalStyles.colors.gray500,
-        verticalAlign: "top"
+        verticalAlign: "top",
+        color: 'gray'
     },
     sum: {
-        fontSize: 26,
+        fontSize: 39,
         fontWeight:900,
         color: GlobalStyles.colors.primary50
     },
